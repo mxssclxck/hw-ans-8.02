@@ -184,4 +184,5 @@ Task'и:
 config.vm.provision "shell", inline: <<-SHELL
     ip a
   SHELL
-``` когда ВМ запустится в консоль будет выведен IP VM
+```
+ когда ВМ запустится в консоль будет выведен IP VM
