@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/thegamer8161/ansible/02-playbook","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
